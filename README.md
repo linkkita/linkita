@@ -1,0 +1,2 @@
+# linkita
+for safelink
